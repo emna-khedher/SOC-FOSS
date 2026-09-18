@@ -209,9 +209,3 @@ Project carried out as part of my training/intership during this summer of 2026
 - [Kali Linux Tools](https://www.kali.org/tools/)
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License — see the `LICENSE` file for more details.
-
----
